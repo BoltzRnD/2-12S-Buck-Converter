@@ -1,0 +1,9 @@
+Manufacturer=Cooper Bussmann
+PartNumber=HC3-5R6-R
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2021-08-12 10:49:47
+Downloaded=2025-03-12 18:16:02
+3D=Y

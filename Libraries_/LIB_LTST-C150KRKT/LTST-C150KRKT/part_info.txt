@@ -1,0 +1,9 @@
+Manufacturer=Lite-On
+PartNumber=LTST-C150KRKT
+PartCategory=LED
+PackageCategory=LED Moulded
+PinCount=2
+Version=1.1
+Released=2019-04-12 06:23:47
+Downloaded=2025-03-13 11:48:30
+3D=Y

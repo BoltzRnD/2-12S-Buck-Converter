@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HC3-5R6-R
+D HIGH CURRENT 3 Power Inductors
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA11/2201201.pdf
+$ENDCMP
+#
+#End Doc Library

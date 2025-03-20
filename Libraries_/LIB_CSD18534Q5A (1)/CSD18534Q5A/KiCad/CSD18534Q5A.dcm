@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD18534Q5A
+D Texas Instruments CSD18534Q5A N-channel MOSFET Transistor, 69 A, 60 V, 8-Pin SON
+K
+F http://www.ti.com/lit/gpn/csd18534q5a
+$ENDCMP
+#
+#End Doc Library
