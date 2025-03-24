@@ -6765,7 +6765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Samtec_MicroPower:Samtec_UMPS-02-XX.X-X-V-S_1x02_P2.0mm_Socket"
+		(property "Footprint" "pad_footprint:Untitled"
 			(at 186.69 24.13 0)
 			(effects
 				(font
@@ -7761,7 +7761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Samtec_MicroPower:Samtec_UMPS-02-XX.X-X-V-S_1x02_P2.0mm_Socket"
+		(property "Footprint" "pad_footprint:Untitled"
 			(at 209.55 24.13 0)
 			(effects
 				(font
